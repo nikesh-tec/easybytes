@@ -1,0 +1,42 @@
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        int  a[]={1,1,2,3,4,5},
+        b []={1,2,3,4,4,5,6},
+        n=a.length,m=b.length,
+        i=0,j=0;
+        List<Integer>  result=new ArrayList();
+        int lastAdded=0;
+        while(i<n&&j<m){
+            int val=0;
+            if(a[i]<a[j]){
+                val=a[i++];
+                result.add(a[i]++);
+                
+            }else if(a[i]>b[j]){
+                val=a[i++];
+            }else{
+                val=a[i];
+                i++;
+                j++;
+            }if(val!=lastAdded){
+                result.add(val);
+                lastAdded=val;
+            }
+            
+        }
+        while(i<n){
+            if(a[i]!=lastAdded){
+                result.add(a[i]);
+                lastAdded=a[i++];
+            }
+        }
+         while(j<m){
+            if(b[j]!=lastAdded){
+                result.add(b[j]);
+                lastAdded=b[j++];
+            }
+        }
+        System.out.println(result);//[1, 2, 3, 4, 5, 6]
+    }
+}
