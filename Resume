@@ -1,0 +1,46 @@
+NIKESH K
+SOFTWAREDEVELOPER
+Contact : +91 9025353669 | E-mail : nikeshkannan23@gmail.com |
+Linked-in : https://www.linkedin.com/in/nikesh-k-980783239/
+ 
+SUMMARY
+Backend Developer with one year of experience specializing in API development using Java and Spring Boot. Experienced in diagnosing and resolving backend issues, improving code efficiency and reliability. Strong collaborator in Agile teams, delivering clean, scalable solutions aligned with business goals.
+SKILLS
+Programming language	:	Core Java, JavaScript, SQL, HTML5, CSS3, jQuery
+Frameworks & Tools	:	Spring framework (spring boot , spring MVC), JPA , JDBC, Servlet ,Angular
+Development Tools	:	Eclipse ,Visual Studio code , intellij , Jenkins , Winscp , SQL server management , Git , Maven
+Technical	:	Oops in java , Joins ,stored procedure in sql, exception handling in java , collection frameworks
+Expertise Area
+
+PROFESSIONAL EXPERIENCE	:	Development , problem-solving
+Flextronics		Feb-July 2024
+IT Trainee
+Responsibility :
+	Implemented core functionalities in Java for scalable and efficient back-end services, ensuring robust performance and reliability.
+	Developed responsive front-end interfaces using HTML5, CSS3 and JavaScript libraries like jquery and Ajax , kendo UI to enhancing user experience and accessibility.
+	Utilized Spring framework for dependency injection and aspect-oriented programming, improving modularity and maintainability of code base.
+	Managed continuous integration and deployment processes using Jenkins, automating build, test and deployment phases for accelerated project delivery Debugging and resolving the production issues
+	In my last project, I worked on an Invoice Management Application. The backend was developed in Spring Boot where I built REST APIs, and the frontend was in Angular for managing user interactions.
+	
+	We used MS SQL Server as the database, leveraging stored procedures and triggers to handle invoice processing and audit-related logic efficiently. The invoices generated in Baan were captured by our system, processed through our application layer, and then sent via email notifications to the respective customer or internal user.
+	
+	Another major aspect was role management, where we implemented access controls so that admins, finance users, and regular employees had different levels of functionality.
+	
+	My role was end-to-end: designing and implementing backend APIs in Spring Boot, integrating with SQL procedures, and building Angular UI modules for invoice creation, processing, and tracking. This automation reduced manual effort and improved accuracy in invoice delivery.
+
+HCL Tech 
+Software Engineer                                                                                                                                    2025 present
+Responsibility:
+	Developed RESTful APIs using Java and Spring Boot for the VBG Automation project at Verizon, enabling seamless integration between backend services and frontend applications.
+	Handled bug fixing and backend enhancements, improving system reliability and ensuring smooth functionality of core business features.
+	Collaborated with QA and frontend teams to deliver well-tested, production-ready APIs aligned with business requirements in an Agile development environment.
+
+EDUCATION
+	B.E (EEE) | Alagappa Chettiar Government College Of Engineering 78% | 2023
+	Diplomo | Muthayammal Ploytecnic College 94% | 2020
+	SSLC | Government School of Pattanam 79% | 2017
+CERTIFICATIONS
+	Completed the java fullstack developer course in Qspider which inculdes java, sql, j2ee, html, css,js
+	Completed the workshop on crowd testing in Qspider (certificate link : Document from Nikesh - Google Drive )
+
+
